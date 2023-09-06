@@ -19,4 +19,5 @@
     <img aling="center" alt="UNITY" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
     <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
-🎮 Desenvolvedora de Jogos e Web | Apaixonada por transformar ideias em realidades | 🌐 Sou uma estudante dedicada ao universo do desenvolvimento de jogos!!
+🎮 Desenvolvedora de Jogos e Web | Apaixonada por transformar ideias em realidades.
+🌐 Sou uma estudante dedicada ao universo do desenvolvimento de jogos!!
