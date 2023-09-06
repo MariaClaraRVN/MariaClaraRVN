@@ -2,11 +2,8 @@
 ### Olá! Eu sou a Maria Clara 😊
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-clara-rezende-vianna-2198491b8/)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/why_clarinharv/)
-
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/why_clararv)
-
 ![Maria Clara GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaClaraRVN&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraRVN&layout=compact&theme=cobalt)
 
