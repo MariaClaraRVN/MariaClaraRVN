@@ -1,4 +1,4 @@
-# 🎮 Olá! Eu sou a Maria Clara 😊  
+# Olá! Eu sou a Maria Clara 💚
 
 🔹 **Game Designer & Desenvolvedora Web**  
 🔹 Apaixonada por transformar ideias em experiências interativas  
