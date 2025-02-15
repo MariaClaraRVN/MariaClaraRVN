@@ -31,7 +31,7 @@
 
 ### 🌐 Site Pessoal  
 Portfólio de jogos com meus principais projetos.  
-🔗 [Acesse aqui](https://mariaclararvn.itch.io/)  
+🔗[Acesse Aqui](https://portifolio-a4u4xhatf-mariaclararvns-projects.vercel.app/)
 
 ### 🎮 Crossed Ways  
 Crossed Ways oferece aos jogadores a oportunidade única de escolher entre seguir os passos de um ladrão ou trilhar o caminho de um pianista renomado, tocando em lugares emblemáticos ao redor do mundo.  
